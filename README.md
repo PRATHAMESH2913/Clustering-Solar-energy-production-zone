@@ -7,6 +7,11 @@ This project applies unsupervised machine learning techniques to cluster geograp
 - Provide insights for targeted solar panel deployment and regional energy policy decisions.
 - Visualize clustering results with clear maps and graphs.
 
+## Project Benifits
+**Strategic Targeting:** Identify regions with high solar energy potential, allowing for targeted sales and marketing efforts.
+**Improved Project Feasibility:** Streamline project planning by pre-identifying areas with historically high production for client proposals.
+**Data-Driven Decision Making:** Gain valuable insights into solar resource variability across the region, informing business decisions regarding project allocation and resource deployment
+
 ## 📊 Techniques Used
 - **Data Preprocessing:** Handling missing values, feature normalization, and encoding.
 - **Clustering Algorithms:** K-Means, DBSCAN, and Hierarchical Clustering.
